@@ -1,0 +1,58 @@
+{
+  "wednesday": [
+    {
+      "Programming": null,
+      "address": "Kronverksky, 49, lit.A",
+      "classrom": 306,
+      "parity": "even",
+      "teacher": "Sorokin Roman Borisovich",
+      "time": "8:20-9:50",
+      "type": "Full-time and distant"
+    },
+    {
+      "Programming": null,
+      "address": "Kronverksky, 49, lit.A",
+      "classrom": 306,
+      "parity": "even",
+      "teacher": "Sorokin Roman Borisovich",
+      "time": "10:00-11:30",
+      "type": "Full-time and distant"
+    },
+    {
+      "Computer science": null,
+      "address": "Kronverksky, 49, lit.A",
+      "classrom": 371,
+      "parity": "odd",
+      "teacher": "Rudnikova Tamara Vladimirovna",
+      "time": "10:00-11:30",
+      "type": "Full-time and distant"
+    },
+    {
+      "FUNDAMENTALS OF PROFESSIONAL ACTIVITY": null,
+      "address": "Kronverksky, 49, lit.A",
+      "classrom": 304,
+      "parity": "even",
+      "teacher": "Larochkin Gleb Igorevich",
+      "time": "11:40-13:10",
+      "type": "Full-time and distant"
+    },
+    {
+      "Computer science": null,
+      "address": "Kronverksky, 49, lit.A",
+      "classrom": 371,
+      "parity": "odd",
+      "teacher": "Rudnikova Tamara Vladimirovna",
+      "time": "11:40-13:10",
+      "type": "Full-time and distant"
+    },
+    {
+      "FUNDAMENTALS OF PROFESSIONAL ACTIVITY": null,
+      "address": "Kronverksky, 49, lit.A",
+      "classrom": 304,
+      "parity": "even",
+      "teacher": "Larochkin Gleb Igorevich",
+      "time": "13:30-15:00",
+      "type": "Full-time and distant"
+    }
+  ]
+}

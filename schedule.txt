@@ -1,0 +1,48 @@
+wednesday:
+ - Programming:
+   type: Full-time and distant
+   time: 8:20-9:50
+   parity: even
+   classrom: 306
+   teacher: Sorokin Roman Borisovich
+   address: Kronverksky, 49, lit.A
+
+ - Programming:
+   type: Full-time and distant
+   time: 10:00-11:30
+   parity: even
+   classrom: 306
+   teacher: Sorokin Roman Borisovich
+   address: Kronverksky, 49, lit.A
+
+ - Computer science:
+   type: Full-time and distant
+   time: 10:00-11:30
+   parity: odd
+   classrom: 371
+   teacher: Rudnikova Tamara Vladimirovna
+   address: Kronverksky, 49, lit.A
+
+ - FUNDAMENTALS OF PROFESSIONAL ACTIVITY:
+   type: Full-time and distant
+   time: 11:40-13:10
+   parity: even
+   classrom: 304
+   teacher: Larochkin Gleb Igorevich
+   address: Kronverksky, 49, lit.A
+
+ - Computer science:
+   type: Full-time and distant
+   time: 11:40-13:10
+   parity: odd
+   classrom: 371
+   teacher: Rudnikova Tamara Vladimirovna
+   address: Kronverksky, 49, lit.A
+
+ - FUNDAMENTALS OF PROFESSIONAL ACTIVITY:
+   type: Full-time and distant
+   time: 13:30-15:00
+   parity: even
+   classrom: 304
+   teacher: Larochkin Gleb Igorevich
+   address: Kronverksky, 49, lit.A
